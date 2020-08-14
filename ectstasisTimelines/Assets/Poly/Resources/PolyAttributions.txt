@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: arch
+Author: Mike Dopsa
+URL: https://poly.google.com/view/6z66u8WlkE-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: obePC
+Author: Mike Dopsa
+URL: https://poly.google.com/view/8UUfUItvi1K
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: psalm
+Author: Mike Dopsa
+URL: https://poly.google.com/view/cVhGziMv1bm
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
